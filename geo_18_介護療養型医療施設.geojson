@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geo_18_介護療養型医療施設",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "冨永病院【介護療養型医療施設】福井市西木田３－４－２６", "url": "https://www.kaigokensaku.mhlw.go.jp/18/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1810119949-00&ServiceCd=530&Type=search", "url2": "http://www5b.biglobe.ne.jp/~tomihp/" }, "geometry": { "type": "Point", "coordinates": [ 136.211725699999988, 36.0534462 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人　倉伊会　伊部病院【介護療養型医療施設】福井県丹生郡越前町内郡11-1、2", "url": "https://www.kaigokensaku.mhlw.go.jp/18/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1812014056-00&ServiceCd=530&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 136.128364597369426, 35.974633015842599 ] } }
+]
+}
