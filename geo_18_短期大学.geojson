@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_18_短期大学",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6668" } },
+"features": [
+{ "type": "Feature", "properties": { "P29_001": "18201", "P29_002": "F218310105654", "P29_003": "16006", "P29_004": "仁愛女子短期大学", "P29_005": "福井県福井市天池町43-1-1", "P29_006": "4", "P29_007": "0", "P29_008": "00", "P29_009": null }, "geometry": { "type": "Point", "coordinates": [ 136.217412247800183, 36.103438122062229 ] } }
+]
+}
